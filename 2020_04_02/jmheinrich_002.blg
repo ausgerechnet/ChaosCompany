@@ -1,0 +1,5 @@
+[0] Config.pm:302> INFO - This is Biber 2.9
+[0] Config.pm:305> INFO - Logfile is 'jmheinrich_002.blg'
+[29] biber:313> INFO - === Do Apr  2, 2020, 14:52:41
+[47] Biber.pm:371> INFO - Reading 'jmheinrich_002.bcf'
+[107] Utils.pm:169> WARN - No data sources defined!
